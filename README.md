@@ -39,9 +39,11 @@ For only ONCE models use the cfgs/once/ configurations.
 For cross domain evaluation use the cfgs/cross configurations. They are similiar but using separate configurations makes separting results and checkpoints easier.
 
 Thanks to:
+```
 @misc{openpcdet2020,
     title={OpenPCDet: An Open-source Toolbox for 3D Object Detection from Point Clouds},
     author={OpenPCDet Development Team},
     howpublished = {\url{https://github.com/open-mmlab/OpenPCDet}},
     year={2020}
 }
+```
